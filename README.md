@@ -9,15 +9,29 @@
  
  
  
-<h3 align="center">An enthusiast Software Engineer</h3>
 
+
+<h3 align="center">An enthusiast Software Engineer </h3>
+
+<h3 align="left">📚 Learning</h3>
+
+[![DEV Badge](https://badgen.net/badge/icon/ansible?icon=ansible&label)](https://dev.to/darkmelcof)
+[![DEV Badge](https://badgen.net/badge/icon/terraform?icon=terraform&label)](https://dev.to/darkmelcof)
+[![DEV Badge](https://badgen.net/badge/icon/docker?icon=docker&label)](https://dev.to/darkmelcof)
+
+<h3 align="left">🛠 Tools </h3>
+
+[![DEV Badge](https://badgen.net/badge/icon/jira?icon=jira&label)](https://dev.to/darkmelcof)
+[![DEV Badge](https://badgen.net/badge/icon/eclipse?icon=eclipse&label)](https://dev.to/darkmelcof)
+[![DEV Badge](https://badgen.net/badge/icon/github?icon=github&label)](https://dev.to/darkmelcof)
+[![DEV Badge](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://dev.to/darkmelcof)
+[![DEV Badge](https://badgen.net/badge/icon/azure?icon=azure&label)](https://dev.to/darkmelcof)
 
 <h3 align="left">🚀 Skills  </h3>
 
-
 [![DEV Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://dev.to/darkmelcof)
-[![DEV Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://dev.to/darkmelcof)
 [![DEV Badge](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://dev.to/darkmelcof)
+[![DEV Badge](https://camo.githubusercontent.com/9dcbac88772fbbeb4040b6622cab46a8ebba267a638bf9b0c7a47de146776e92/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476f646f742b456e67696e6526636f6c6f723d343738434246266c6f676f3d476f646f742b456e67696e65266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://dev.to/darkmelcof)
 
 
 
