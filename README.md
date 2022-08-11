@@ -52,7 +52,7 @@
 
 <p align="right">
  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
- <img src="https://img.shields.io/static/v1?label=updated&message=January%20%202022&color=388E3C" alt="darkmelcof" /> 
+ <img src="https://img.shields.io/static/v1?label=updated&message=August%20%202022&color=388E3C" alt="darkmelcof" /> 
 </p>
 
   
